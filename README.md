@@ -14,6 +14,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Perl](#perl)
 - [PHP](#php)
 - [Python](#python)
 - [Ruby](#ruby)
@@ -72,6 +73,11 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [cannot-even](https://github.com/blakek/cannot-even) - A module that refuses to even.
 - [undefined-is-a-function](https://github.com/donavon/undefined-is-a-function) - "undefined is not a function"? — It is now!
 - [is-thirteen](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13.
+
+
+## Perl
+
+- [lolsql](https://github.com/jnthn/lolsql) - I can has lolsql parser?
 
 
 ## PHP
